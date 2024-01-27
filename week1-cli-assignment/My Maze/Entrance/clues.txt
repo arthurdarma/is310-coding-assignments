@@ -1,0 +1,4 @@
+how many countries in the world?
+
+195=door1
+193=door2
